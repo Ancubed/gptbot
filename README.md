@@ -1,1 +1,1 @@
-# gptbot
+# gptbot v1
